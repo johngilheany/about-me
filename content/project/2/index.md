@@ -1,5 +1,5 @@
 ---
-title: External Project
+title: Demand Forecasting and Inventory Optimization by Aman Kharwal
 summary: An example of linking directly to an external project website using `external_link`.
 tags:
   - TS
@@ -9,6 +9,6 @@ date: "2016-04-27T00:00:00Z"
 external_link: https://example.org
 
 image:
-  caption: slide image
+  caption: warehouse
   focal_point: Smart
 ---
