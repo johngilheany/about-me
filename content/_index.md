@@ -176,10 +176,11 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
-        - name: NLP
-          tag: NLP
         - name: Time Series
           tag: TS
+        - name: NLP
+          tag: NLP
+
     design:
       # Choose how many columns the section has. Valid values: '1' or '2'.
       columns: '1'
