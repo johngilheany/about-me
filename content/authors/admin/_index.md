@@ -29,11 +29,17 @@ bio: ''
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Machine Learning
-  - Natural Language Processing
-  - Predictive Modeling
-  - Time Series
+  # - Artificial Intelligence
+  # - Machine Learning
+  # - Natural Language Processing
+  # - Predictive Modeling
+  # - Time Series
+  - Travel
+  - Swimming
+  - Fishing
+  - Golfing
+  - Skiing 
+  - Reading  
 
 # Education to show in About widget
 education:
