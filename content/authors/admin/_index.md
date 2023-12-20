@@ -63,46 +63,46 @@ skills:
         icon_pack: fas
       - name: R
         description: ''
-        percent: 80
+        percent: 75
         icon: chart-line
         icon_pack: fas
       - name: Tableau
         description: ''
-        percent: 80
+        percent: 75
         icon: file
         icon_pack: fas
   - name: Python Modules
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking
+      - name: NumPy
         description: ''
-        percent: 60
+        percent: 100
         icon: filter
         icon_pack: fas
-      - name: Cats
+      - name: Pandas
         description: ''
         percent: 100
         icon: gear
         icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: folder
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: cube
-        icon_pack: fas
-      - name: Data Science
+      - name: Matplotlib
         description: ''
         percent: 100
+        icon: folder
+        icon_pack: fas
+      - name: Scikit-Learn
+        description: ''
+        percent: 90
+        icon: cube
+        icon_pack: fas
+      - name: TensorFlow/Keras
+        description: ''
+        percent: 80
         icon: terminal
         icon_pack: fas
-      - name: SQL
+      - name: PyTorch
         description: ''
-        percent: 40
+        percent: 80
         icon: file-code
         icon_pack: fas  
 
