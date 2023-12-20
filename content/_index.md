@@ -70,7 +70,7 @@ sections:
           date_start: '2023-01-01'
           date_end: '2023-08-01'
           description: Woodline Partners is a multi-strategy hedge fund managing $8bn+ in assets
-        - title: Investment Analyst (Consumer & TMT)
+        - title: Investment Analyst (Consumer Discretionary & TMT)
           company: Brookfield BHS Advisors
           company_url: ''
           company_logo: ''
@@ -86,7 +86,15 @@ sections:
           date_start: '2020-05-01'
           date_end: '2021-08-31'
           description: Bank of America provides M&A, debt and equity product solutions for its clients    
-    # design:
+        - title: Investment Associate (Consumer Staples)
+          company: Brandes Investment Partners
+          company_url: ''
+          company_logo: ''
+          location: San Diego
+          date_start: '2018-08-01'
+          date_end: '2020-03-31'
+          description: Brandes Investment Partners is an investment management firm managing $20bn+ in assets      
+  # design:
     #   columns: '2'
   # - block: accomplishments
   #   content:
