@@ -1,6 +1,6 @@
 ---
 title: Reddit NLP Analysis
-summary: Using the Python Reddit API Wrapper (PRAW), analyze language in different forums and create classification model.
+summary: Scraped over 5,000 posts across WallStreetBets and CryptoMoonShots using the Python Reddit API Wrapper (PRAW), to develop classification models to determine which post belongs to which subforum. The models, including Logistic Regression, Random Forest, and Multinomial Naive Bayes with Tfid Vectorizer, were fine-tuned with RandomSearchCV for optimal performance on the test data.
 tags:
   - NLP
 date: "2023-11-20T00:00:00Z"
