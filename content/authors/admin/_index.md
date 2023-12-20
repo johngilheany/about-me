@@ -35,11 +35,11 @@ interests:
   # - Predictive Modeling
   # - Time Series
   - Traveling
+  - Reading  
   - Swimming
   - Fishing
   - Golfing
   - Skiing 
-  - Reading  
 
 # Education to show in About widget
 education:
@@ -147,6 +147,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-
-I am a forward-thinking Data Scientist who uses curiosity, emotional intelligence, creativity, and efficiency to tell stories with data. My background as an investment professional allows me to deliver value through efficient processes, critical thinking, problem solving, and resourceful expertise. I enjoy applying the scientific process to solve real-world problems and to have a positive impact.
+Armed with a Bachelor's degree in Statistics, I am an aspiring data scientist who recently completed a comprehensive 12-week full-time data science bootcamp, enhancing my proficiency in data analytics and machine learning. Leveraging 5+ years of experience across investment banking and public equity investing, where I focused on the consumer space, I bring a unique blend of critical thinking, problem-solving, business acumen and resourcefulness to my data science endeavors. Fueled by curiosity and a knack for storytelling through data, I am passionate about addressing real-world challenges and making a positive impact in the field.
 {style="text-align: justify;"}

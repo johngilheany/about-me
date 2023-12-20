@@ -1,5 +1,5 @@
 ---
-title: Demand Forecasting and Inventory Optimization by Aman Kharwal
+title: Demand Forecasting and Inventory Optimization
 summary: An example of linking directly to an external project website using `external_link`.
 tags:
   - TS
