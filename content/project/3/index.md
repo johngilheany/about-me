@@ -1,14 +1,14 @@
 ---
-title: External Project
-summary: An example of linking directly to an external project website using `external_link`.
+title: Reddit NLP Analysis
+summary: Using the Python Reddit API Wrapper (PRAW), analyze language in different forums and create classification model.
 tags:
-  - Demo
-date: "2016-04-27T00:00:00Z"
+  - NLP
+date: "2023-11-20T00:00:00Z"
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://example.org
+external_link: https://github.com/johngilheany/reddit_nlp
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Reddit logo
   focal_point: Smart
 ---
