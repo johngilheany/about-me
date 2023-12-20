@@ -64,12 +64,12 @@ skills:
       - name: R
         description: ''
         percent: 75
-        icon: sensor-cloud
+        icon: chart-line
         icon_pack: fas
       - name: Tableau
         description: ''
         percent: 100
-        icon: chart-line
+        icon: computer-classic
         icon_pack: fas
   - name: Python Modules
     color: '#eeac02'
