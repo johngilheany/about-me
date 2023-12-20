@@ -34,7 +34,7 @@ interests:
   # - Natural Language Processing
   # - Predictive Modeling
   # - Time Series
-  - Travel
+  - Traveling
   - Swimming
   - Fishing
   - Golfing
