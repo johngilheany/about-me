@@ -78,32 +78,32 @@ skills:
       - name: Hiking
         description: ''
         percent: 60
-        icon: person-hiking
+        icon: filter
         icon_pack: fas
       - name: Cats
         description: ''
         percent: 100
-        icon: cat
+        icon: gear
         icon_pack: fas
       - name: Photography
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: folder
         icon_pack: fas
       - name: SQL
         description: ''
         percent: 40
-        icon: database
+        icon: cube
         icon_pack: fas
       - name: Data Science
         description: ''
         percent: 100
-        icon: chart-line
+        icon: terminal
         icon_pack: fas
       - name: SQL
         description: ''
         percent: 40
-        icon: database
+        icon: file-code
         icon_pack: fas  
 
 # Social/Academic Networking
