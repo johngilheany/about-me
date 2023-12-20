@@ -36,8 +36,8 @@ interests:
   # - Time Series
   - Traveling
   - Reading  
-  - Swimming
-  - Fishing
+  # - Swimming
+  # - Fishing
   - Golfing
   - Skiing 
 
