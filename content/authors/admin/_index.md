@@ -25,7 +25,7 @@ role: Data Scientist
 #     url: https://www.harvard.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a forward-thinking Data Scientist who uses curiosity, emotional intelligence, creativity, and efficiency to tell stories with data. My background as an investment professional allows me to deliver value through efficient processes, critical thinking, problem solving, and resourceful expertise. I enjoy applying the scientific process to solve real-world problems and to have a positive impact.
+bio: ''
 
 # Interests to show in About widget
 interests:
