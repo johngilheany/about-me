@@ -86,8 +86,8 @@ sections:
           date_start: '2020-05-01'
           date_end: '2021-08-31'
           description: Bank of America provides M&A, debt and equity product solutions for its clients    
-    design:
-      columns: '2'
+    # design:
+    #   columns: '2'
   # - block: accomplishments
   #   content:
   #     # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
