@@ -69,8 +69,8 @@ skills:
       - name: Tableau
         description: ''
         percent: 100
-        icon: computer-classic
-        icon_pack: fas
+        icon: computer-desktop
+        icon_pack: hero
   - name: Python Modules
     color: '#eeac02'
     color_border: '#f0bf23'
