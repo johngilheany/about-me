@@ -77,7 +77,7 @@ sections:
           location: New York
           date_start: '2021-08-01'
           date_end: '2022-12-31'
-          description: Brookfield BHS Advisors was a $1bn+ multi-strategy hedge fund platform within Brookfield (ceased operations in 2023)
+          description: Brookfield BHS Advisors was a $1bn+ multi-strategy hedge fund platform within Brookfield
         - title: Investment Banking Analyst (FinTech)
           company: Bank of America
           company_url: ''
@@ -85,7 +85,7 @@ sections:
           location: New York
           date_start: '2020-05-01'
           date_end: '2021-08-31'
-          description: Bank of America provides M&A, debt and equity product expertise to deliver integrated financial solutions for its clients    
+          description: Bank of America provides M&A, debt and equity product solutions for its clients    
     design:
       columns: '2'
   # - block: accomplishments
