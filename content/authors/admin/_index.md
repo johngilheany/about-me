@@ -35,7 +35,7 @@ interests:
   # - Predictive Modeling
   # - Time Series
   - Traveling
-  - Reading  
+  # - Reading  
   # - Swimming
   # - Fishing
   - Golfing
@@ -50,9 +50,9 @@ education:
     - course: Bachelor of Science in Statistics
       institution: Harvard University
       year: 2017
-    - course: High School Diploma
-      institution: Bronx High School of Science
-      year: 2013
+    # - course: High School Diploma
+    #   institution: Bronx High School of Science
+    #   year: 2013
 
 # Skills - https://fontawesome.com/search?o=r&m=free&c=business 
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
