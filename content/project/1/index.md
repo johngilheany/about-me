@@ -9,6 +9,6 @@ date: "2023-12-10T00:00:00Z"
 external_link: https://github.com/johngilheany/capstone_PANDA
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: slide image
   focal_point: Smart
 ---
