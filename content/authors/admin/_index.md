@@ -59,17 +59,36 @@ skills:
       - name: SQL
         description: ''
         percent: 80
-        icon: chart-line
+        icon: database
         icon_pack: fas
       - name: R
         description: ''
         percent: 75
-        icon: database
-        icon_pack: fas
-      - name: Data Science
+        icon: researcherid
+        icon_pack: academicons
+      - name: Tableau
         description: ''
         percent: 100
         icon: chart-line
+        icon_pack: fas
+  - name: Python Modules
+    color: '#eeac02'
+    color_border: '#f0bf23'
+    items:
+      - name: Hiking
+        description: ''
+        percent: 60
+        icon: person-hiking
+        icon_pack: fas
+      - name: Cats
+        description: ''
+        percent: 100
+        icon: cat
+        icon_pack: fas
+      - name: Photography
+        description: ''
+        percent: 80
+        icon: camera-retro
         icon_pack: fas
       - name: SQL
         description: ''
@@ -86,45 +105,7 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas  
-  - name: B
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
-  - name: C
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-hiking
-        icon_pack: fas
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-        icon_pack: fas
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera-retro
-        icon_pack: fas
-
+        
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
