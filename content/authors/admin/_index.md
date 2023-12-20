@@ -63,14 +63,14 @@ skills:
         icon_pack: fas
       - name: R
         description: ''
-        percent: 75
+        percent: 80
         icon: chart-line
         icon_pack: fas
       - name: Tableau
         description: ''
-        percent: 100
-        icon: computer-desktop
-        icon_pack: hero
+        percent: 80
+        icon: code
+        icon_pack: fas
   - name: Python Modules
     color: '#eeac02'
     color_border: '#f0bf23'
