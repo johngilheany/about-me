@@ -49,13 +49,23 @@ education:
 # Skills
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 skills:
-  - name: A
+  - name: Programming Languages
     items:
       - name: Python
         description: ''
-        percent: 80
+        percent: 100
         icon: python
         icon_pack: fab
+      - name: SQL
+        description: ''
+        percent: 80
+        icon: chart-line
+        icon_pack: fas
+      - name: R
+        description: ''
+        percent: 75
+        icon: database
+        icon_pack: fas
       - name: Data Science
         description: ''
         percent: 100
@@ -66,26 +76,6 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas
-            - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
-      - name: Data Science
-        description: ''
-        percent: 100
-        icon: chart-line
-        icon_pack: fas
-      - name: SQL
-        description: ''
-        percent: 40
-        icon: database
-        icon_pack: fas
-          - name: Python
-        description: ''
-        percent: 80
-        icon: python
-        icon_pack: fab
       - name: Data Science
         description: ''
         percent: 100
