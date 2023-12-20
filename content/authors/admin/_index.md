@@ -30,8 +30,10 @@ bio: I am a forward-thinking Data Scientist who uses curiosity, emotional intell
 # Interests to show in About widget
 interests:
   - Artificial Intelligence
+  - Machine Learning
   - Natural Language Processing
   - Predictive Modeling
+  - Time Series
 
 # Education to show in About widget
 education:
