@@ -64,8 +64,8 @@ skills:
       - name: R
         description: ''
         percent: 75
-        icon: researcherid
-        icon_pack: academicons
+        icon: sensor-cloud
+        icon_pack: fas
       - name: Tableau
         description: ''
         percent: 100
@@ -105,7 +105,7 @@ skills:
         percent: 40
         icon: database
         icon_pack: fas  
-        
+
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
