@@ -20,9 +20,9 @@ superuser: true
 role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
-organizations:
-  - name: Harvard University
-    url: https://www.harvard.edu/
+# organizations:
+#   - name: Harvard University
+#     url: https://www.harvard.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a forward-thinking Data Scientist who uses curiosity, emotional intelligence, creativity, and efficiency to tell stories with data. My background as an investment professional allows me to deliver value through efficient processes, critical thinking, problem solving, and resourceful expertise. I enjoy applying the scientific process to solve real-world problems and to have a positive impact.
