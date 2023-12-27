@@ -184,8 +184,8 @@ sections:
           tag: '*'
         - name: Deep Learning
           tag: Deep Learning
-        - name: Time Series
-          tag: TS
+        - name: Predictive Modeling
+          tag: PM
         - name: NLP
           tag: NLP
 
