@@ -35,10 +35,10 @@ interests:
   # - Predictive Modeling
   # - Time Series
   - Traveling
-  # - Reading  
-  # - Swimming
+  - Reading  
+  - Swimming
   # - Fishing
-  - Golfing
+  # - Golfing
   - Skiing 
 
 # Education to show in About widget
