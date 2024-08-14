@@ -61,14 +61,14 @@ sections:
       #   Required fields are `title`, `company`, and `date_start`.
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
+       items:
         - title: Data Scientist
           company: Stealth AI Startup
           company_url: ''
           company_logo: ''
           location: New York
           date_start: '2023'
-          date_end: 'Current'
+          date_end: 
           description: AI-enabled laboratory that leverages ML to enhance accuracy of pathologist diagnoses for patients
         - title: Investment Analyst & Analytics
           company: Brookfield BHS Advisors
