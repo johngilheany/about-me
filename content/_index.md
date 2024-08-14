@@ -62,37 +62,37 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Investment Associate (Consumer Health)
-          company: Woodline Partners
+        - title: Data Scientist
+          company: Stealth AI Startup
           company_url: ''
           company_logo: ''
           location: New York
-          date_start: '2023-01-01'
-          date_end: '2023-08-01'
-          description: Woodline Partners is a multi-strategy hedge fund managing $8bn+ in assets
-        - title: Investment Analyst (Consumer Discretionary & TMT)
+          date_start: '2023'
+          date_end: 'Current'
+          description: AI-enabled laboratory that leverages ML to enhance accuracy of pathologist diagnoses for patients
+        - title: Investment Analyst & Analytics
           company: Brookfield BHS Advisors
           company_url: ''
           company_logo: ''
           location: New York
-          date_start: '2021-08-01'
-          date_end: '2022-12-31'
+          date_start: '2021'
+          date_end: '2022'
           description: Brookfield BHS Advisors was a $1bn+ multi-strategy hedge fund platform within Brookfield
-        - title: Investment Banking Analyst (FinTech)
+        - title: Investment Banking Analyst
           company: Bank of America
           company_url: ''
           company_logo: ''
           location: New York
-          date_start: '2020-05-01'
-          date_end: '2021-08-31'
+          date_start: '2020'
+          date_end: '2021'
           description: Bank of America provides M&A, debt and equity product solutions for its clients    
-        - title: Investment Associate (Consumer Staples)
+        - title: Investment Associate
           company: Brandes Investment Partners
           company_url: ''
           company_logo: ''
           location: San Diego
-          date_start: '2018-08-01'
-          date_end: '2020-03-31'
+          date_start: '2018'
+          date_end: '2020'
           description: Brandes Investment Partners is an investment management firm managing $20bn+ in assets      
   # design:
     #   columns: '2'
