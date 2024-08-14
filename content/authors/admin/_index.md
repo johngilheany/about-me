@@ -147,5 +147,5 @@ social:
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
-Equipped with a Bachelor's degree in Statistics, I am an aspiring data scientist who recently completed a comprehensive 12-week full-time data science bootcamp, enhancing my proficiency in data analytics and machine learning. Leveraging 5+ years of experience as an investment banker and public markets investor focusing on the consumer space, I bring a unique blend of critical thinking, problem-solving, business acumen and resourcefulness to my data science endeavors. Fueled by curiosity and a knack for storytelling through data, I am passionate about addressing real-world challenges and making a positive impact.
+I am a data scientist with strong foundation in data analytics, machine learning and predictive modeling. Leveraging 5+ years of experience as an investment banker and public markets investor focusing on the consumer space, I bring a unique blend of critical thinking, problem-solving, business acumen and resourcefulness to my data science endeavors. Fueled by curiosity and a knack for storytelling through data, I am passionate about addressing real-world challenges and making a positive impact.
 {style="text-align: justify;"}
